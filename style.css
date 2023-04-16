@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('assets/freedom.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+
+  .quote {
+    font-size: larger;
+    font-weight: bold;
+  }
+
+  .author {
+    text-align: right;
+    font-style: italic;
+  }
