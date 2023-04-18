@@ -4,7 +4,11 @@
     box-sizing: border-box;
     font-size: 100%;
   }
-  
+
+  html, body {
+    font-family: "Crimson Text";
+  }
+
   body {
     display: flex;
     justify-content: center;
@@ -15,7 +19,7 @@
   }
 
   .quote {
-    font-size: larger;
+    font-size: x-large;
     font-weight: bold;
   }
 
